@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Refer
-The application uses this [rest api] (https://github.com/ImRohitSingh/rest.spring)
+The application uses this [rest api](https://github.com/ImRohitSingh/rest.spring)
 
 ## Available Scripts
 
